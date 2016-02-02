@@ -1,0 +1,38 @@
+=======================
+version 1.0.0 changelog
+=======================
+o playtested for repository
+o changed solo campaigns timelimit from round 30 to round 25.
+o changed Suprareme.png to suprareme.png - case sensitivity bugfix. 
+
+=======================
+version 0.8.1 changelog
+=======================
+o Reduced game options to a smaller applicable list.
+o Setup: Zama -1 warelephant(Carthage)
+o Fixed bug: Greece was trying to auto-produce warrior after taking a Barbarian city.
+o trireme AA no longer overstacks.  (No AA in TAW overstacks)
+o Renamed ship first strike attacks to help make more sense in the combat window.
+o Bombardment casualties from flagships may now defend during amphibious attacks. (the TripleA game property was wrongly named)
+o city value is incorrect on map and in game notes.  Fixed. (should be 40 PUs)
+o Fixed automatic VC Total Victory winning.
+o Game note fixes, clarification.
+o Adjusted victory conditions for single player campaigns.
+o Changed Carthage Campaign Income Adjustments:
+  -10 PUs	Carthage
+  +15 PUs	Rome
+  + 6 PUs	GreekCityStates
+  + 2 PUs	Pergamon
+  + 2 PUs	Armenia
+  + 8 PUs	Egypt
+o Changed Roman Campaign Income Adjustments:
+  -10 PUs	Rome
+  +17 PUs	Carthage
+  + 9 PUs	Macedonia
+  + 3 PUs	Bosporus
+  + 3 PUs	Pontus
+  + 3 PUs	Seleucid
+
+
+
+·
