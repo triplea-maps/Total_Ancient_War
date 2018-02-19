@@ -1841,7 +1841,7 @@
       <option name="isCombatTransport" value="true"/>
       <option name="isSea" value="true"/>
       <option name="canBombard" value="true"/>
-      <option name="Bombard" value="6"/>
+      <option name="bombard" value="6"/>
       <option name="hitPoints" value="2"/>
       <option name="repairsUnits" value="flagship"/>
     </attachment>
