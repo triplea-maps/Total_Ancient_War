@@ -1,0 +1,5 @@
+map_name: total_ancient_war
+games:
+- {game_name: TAW_Roman_Campaign, file_name: TAW_Roman_Campaign.xml}
+- {game_name: TAW_Carthage_Campaign, file_name: TAW_Carthage_Campaign.xml}
+- {game_name: Total_Ancient_War, file_name: Total_Ancient_War.xml}
